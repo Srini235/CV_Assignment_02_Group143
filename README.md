@@ -6,7 +6,7 @@ Problem Statement: You are given a small set of crowd-sourced images containing 
 corresponding text prompts. Your task is to fine-tune a pre trained text-to-image model so that it can 
 generate images that visually resemble real operational text images when given a text prompt.
 Objective:
-Fine-tune a small text-to-image generation model to generate simple, readable text images using crowdsourced text–image pairs collected from real-world operational contexts.
+Fine-tune a small text-to-image generation model to generate simple, readable text images using crowd-sourced text–image pairs collected from real-world operational contexts.
 The goal is to understand:
 ● Domain shift from synthetic to real data
 ● Model adaptation using limited, noisy samples
